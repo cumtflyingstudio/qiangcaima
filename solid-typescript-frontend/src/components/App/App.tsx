@@ -49,7 +49,7 @@ const App: Component = () => {
         </div>
         <div class="flex flex-col justify-center items-center">
           <div class="flex flex-row justify-center items-center">
-            <a href="https://github.com/SoonIter">
+            <a href="https://github.com/SoonIter/qiangcaima">
               <GithubIcon />
             </a>
           </div>
