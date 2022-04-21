@@ -11,3 +11,4 @@ dist
 .idea
 *-lock.*
 *-error.*
+**/base_url.*

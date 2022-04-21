@@ -7,7 +7,4 @@ dist
 .idea
 *-lock.*
 *-error.*
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
+*/base_url.*
