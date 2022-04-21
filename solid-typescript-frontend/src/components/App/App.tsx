@@ -42,7 +42,7 @@ const App: Component = () => {
           </div>
         </div>
       </Mask>
-      <div class="flex flex-col justify-center items-center" style={{ padding: '100px' }}>
+      <div class="flex flex-col justify-center items-center">
         <Input />
         <div>
           <HotList />
