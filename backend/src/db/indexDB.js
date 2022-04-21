@@ -2,7 +2,7 @@ import mysql from "mysql2"
 
 export default mysql.createPool({
   host: '',
-  port: ,
+  port: '',
   user: '',
   password: '',
   database: ''

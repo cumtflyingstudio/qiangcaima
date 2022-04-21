@@ -12,3 +12,5 @@ dist
 *-lock.*
 *-error.*
 **/base_url.*
+
+/backend/src/db/index.js
