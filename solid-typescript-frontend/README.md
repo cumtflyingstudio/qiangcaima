@@ -1,4 +1,5 @@
-# solid-typescript-starter
+# used template :solid-typescript-starter
+
 Typescript starter for [Solid](https://github.com/ryansolid/solid) framework
 
 This is an easier Typescript start with Solid, Webpack 5 and TailwindCSS(jit). Updated for 1.1.
@@ -7,7 +8,7 @@ Uses webpack for bundling, Typescript for static typing, ESLint for linting the 
 
 Supports debugging
 
-* Installation
+- Installation
 
 Uses pnpm. Installation [pnpm](https://pnpm.io/installation).
 
@@ -19,6 +20,6 @@ Debugging - start App in dev mode, and then run debugger. Reload Firefox at this
 
 the warning from debugger extension if it appears. Breakpoints should work.
 
-* Unit test
+- Unit test
 
-Jest (TS-Jest) and Solid Testing Library  are used for POC unit tests.
+Jest (TS-Jest) and Solid Testing Library are used for POC unit tests.

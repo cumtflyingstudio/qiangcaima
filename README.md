@@ -1,2 +1,4 @@
 # qiangcaima
- 一个solid+express+websocket的抢菜小网页
+
+一个 solid+express+websocket 的抢菜小网页
+[网站示例](http://101.43.215.173:8090/)
