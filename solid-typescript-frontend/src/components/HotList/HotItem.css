@@ -1,0 +1,19 @@
+@keyframes HotItemAnimation {
+  from {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+.HotItem {
+  font-size: 1rem;
+  animation: HotItemAnimation ease-out 1s;
+  background: #ffffff;
+  width: 400px;
+  border: 1px solid rgba(110, 110, 110, 0.062745098);
+}
+
+/*# sourceMappingURL=HotItem.css.map */

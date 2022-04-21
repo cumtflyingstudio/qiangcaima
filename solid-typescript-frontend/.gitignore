@@ -1,0 +1,13 @@
+.DS_Store
+.cache
+node_modules
+coverage
+dist
+.vscode
+.idea
+*-lock.*
+*-error.*
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes

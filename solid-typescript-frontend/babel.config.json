@@ -1,0 +1,37 @@
+{
+  "presets": [
+    "solid",
+    "@babel/typescript"
+  ],
+  "env": {
+    "development": {
+      "plugins": ["solid-refresh/babel"]
+    },
+    "test": {
+      "presets": [
+        [
+          "@babel/env",
+          {
+            "targets": {
+              "node": "current"
+            }
+          }
+        ]
+      ]
+    },
+    "production": {
+      "presets": [
+        [
+          "@babel/env",
+          {
+            "useBuiltIns": "entry",
+            "corejs": 3,
+            "exclude": [
+              "transform-typeof-symbol"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}
